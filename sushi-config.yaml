@@ -34,6 +34,7 @@ parameters:
   - input/resources/oxymetazoline-hydrochloride
   - input/resources/dimethyl-fumarate
   autoload-resources: true
+  path-binary: input/mp4
 copyrightYear: 2021+
 releaseLabel: CI Build
 
