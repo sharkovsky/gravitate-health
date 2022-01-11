@@ -3,10 +3,10 @@
   "name": "GhImplementationGuide",
   "package-id": "hl7.eu.fhir.gh",
   "ig-ver": "0.1.0",
-  "date": "Tue, 11 Jan, 2022 08:54:21 +0000",
-  "errs": 1169,
-  "warnings": 150,
-  "hints": 1069,
+  "date": "Tue, 11 Jan, 2022 09:48:47 +0000",
+  "errs": 1231,
+  "warnings": 162,
+  "hints": 1119,
   "version": "5.0.0-snapshot1",
   "tool": "5.0.0-snapshot1 (3)"
 }
